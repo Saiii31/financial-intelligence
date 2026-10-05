@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Exec(dir)",
+      "Exec(git status)",
+      "Exec(.venv\\Scripts\\pip install)",
+      "Exec(.venv\\Scripts\\uvicorn)",
+      "Exec(Add-Type)"
+    ]
+  }
+}

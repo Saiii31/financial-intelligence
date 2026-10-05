@@ -1,0 +1,1891 @@
+{
+  "summary": {
+    "income": 6216000.0,
+    "expenses": 5124288.48,
+    "savings": 1091711.52,
+    "savings_rate": 17.56,
+    "assets": 7025000.0,
+    "liabilities": 3338000.0,
+    "net_worth": 3687000.0,
+    "monthly_emi": 46700.0,
+    "debt_to_income": 0.75
+  },
+  "spending_analysis": {
+    "by_category": [
+      {
+        "category": "Debt Payment",
+        "total_spending": 1092705.71
+      },
+      {
+        "category": "Housing",
+        "total_spending": 768000.0
+      },
+      {
+        "category": "Investments",
+        "total_spending": 760000.0
+      },
+      {
+        "category": "Food",
+        "total_spending": 610035.0
+      },
+      {
+        "category": "Utilities",
+        "total_spending": 322800.0
+      },
+      {
+        "category": "Shopping",
+        "total_spending": 317183.68
+      },
+      {
+        "category": "Salary",
+        "total_spending": 205000.0
+      },
+      {
+        "category": "Transport",
+        "total_spending": 194572.92
+      },
+      {
+        "category": "Travel",
+        "total_spending": 183614.14
+      },
+      {
+        "category": "Entertainment",
+        "total_spending": 166016.23
+      },
+      {
+        "category": "Insurance",
+        "total_spending": 132000.0
+      },
+      {
+        "category": "Other",
+        "total_spending": 118079.64
+      },
+      {
+        "category": "Healthcare",
+        "total_spending": 105074.48
+      },
+      {
+        "category": "Education",
+        "total_spending": 103066.97
+      },
+      {
+        "category": "Personal Care",
+        "total_spending": 45208.07
+      },
+      {
+        "category": "Uncategorized",
+        "total_spending": 931.64
+      }
+    ],
+    "percentage_of_expenses": [
+      {
+        "category": "Debt Payment",
+        "total_spending": 1092705.71,
+        "percentage_of_expenses": 21.324047509518827
+      },
+      {
+        "category": "Housing",
+        "total_spending": 768000.0,
+        "percentage_of_expenses": 14.987446608392355
+      },
+      {
+        "category": "Investments",
+        "total_spending": 760000.0,
+        "percentage_of_expenses": 14.831327372888268
+      },
+      {
+        "category": "Food",
+        "total_spending": 610035.0,
+        "percentage_of_expenses": 11.904774728841964
+      },
+      {
+        "category": "Utilities",
+        "total_spending": 322800.0,
+        "percentage_of_expenses": 6.299411152589911
+      },
+      {
+        "category": "Shopping",
+        "total_spending": 317183.68,
+        "percentage_of_expenses": 6.189809204496621
+      },
+      {
+        "category": "Salary",
+        "total_spending": 205000.0,
+        "percentage_of_expenses": 4.00055540979223
+      },
+      {
+        "category": "Transport",
+        "total_spending": 194572.92,
+        "percentage_of_expenses": 3.7970719400247357
+      },
+      {
+        "category": "Travel",
+        "total_spending": 183614.14,
+        "percentage_of_expenses": 3.5832123955675503
+      },
+      {
+        "category": "Entertainment",
+        "total_spending": 166016.23,
+        "percentage_of_expenses": 3.2397908636088344
+      },
+      {
+        "category": "Insurance",
+        "total_spending": 132000.0,
+        "percentage_of_expenses": 2.5759673858174357
+      },
+      {
+        "category": "Other",
+        "total_spending": 118079.64,
+        "percentage_of_expenses": 2.3043128906747268
+      },
+      {
+        "category": "Healthcare",
+        "total_spending": 105074.48,
+        "percentage_of_expenses": 2.050518436073685
+      },
+      {
+        "category": "Education",
+        "total_spending": 103066.97,
+        "percentage_of_expenses": 2.011342070265334
+      },
+      {
+        "category": "Personal Care",
+        "total_spending": 45208.07,
+        "percentage_of_expenses": 0.8822311658769063
+      },
+      {
+        "category": "Uncategorized",
+        "total_spending": 931.64,
+        "percentage_of_expenses": 0.018180865570628455
+      }
+    ],
+    "monthly_category_spending": [
+      {
+        "month": "2024-10",
+        "category": "Debt Payment",
+        "spending": 39700.0
+      },
+      {
+        "month": "2024-10",
+        "category": "Investments",
+        "spending": 35000.0
+      },
+      {
+        "month": "2024-10",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2024-10",
+        "category": "Food",
+        "spending": 16645.31
+      },
+      {
+        "month": "2024-10",
+        "category": "Shopping",
+        "spending": 10547.89
+      },
+      {
+        "month": "2024-10",
+        "category": "Entertainment",
+        "spending": 8411.18
+      },
+      {
+        "month": "2024-10",
+        "category": "Transport",
+        "spending": 7477.200000000001
+      },
+      {
+        "month": "2024-10",
+        "category": "Healthcare",
+        "spending": 5786.07
+      },
+      {
+        "month": "2024-10",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2024-10",
+        "category": "Utilities",
+        "spending": 5300.0
+      },
+      {
+        "month": "2024-10",
+        "category": "Education",
+        "spending": 4216.77
+      },
+      {
+        "month": "2024-10",
+        "category": "Other",
+        "spending": 1885.24
+      },
+      {
+        "month": "2024-10",
+        "category": "Personal Care",
+        "spending": 914.64
+      },
+      {
+        "month": "2024-11",
+        "category": "Debt Payment",
+        "spending": 45680.41
+      },
+      {
+        "month": "2024-11",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2024-11",
+        "category": "Investments",
+        "spending": 30000.0
+      },
+      {
+        "month": "2024-11",
+        "category": "Food",
+        "spending": 27570.23
+      },
+      {
+        "month": "2024-11",
+        "category": "Shopping",
+        "spending": 10405.94
+      },
+      {
+        "month": "2024-11",
+        "category": "Transport",
+        "spending": 7829.87
+      },
+      {
+        "month": "2024-11",
+        "category": "Utilities",
+        "spending": 5550.0
+      },
+      {
+        "month": "2024-11",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2024-11",
+        "category": "Education",
+        "spending": 4781.07
+      },
+      {
+        "month": "2024-11",
+        "category": "Entertainment",
+        "spending": 4679.91
+      },
+      {
+        "month": "2024-11",
+        "category": "Healthcare",
+        "spending": 4509.1
+      },
+      {
+        "month": "2024-11",
+        "category": "Other",
+        "spending": 3039.91
+      },
+      {
+        "month": "2024-11",
+        "category": "Personal Care",
+        "spending": 2060.87
+      },
+      {
+        "month": "2024-12",
+        "category": "Debt Payment",
+        "spending": 45617.05
+      },
+      {
+        "month": "2024-12",
+        "category": "Travel",
+        "spending": 38666.47
+      },
+      {
+        "month": "2024-12",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2024-12",
+        "category": "Investments",
+        "spending": 30000.0
+      },
+      {
+        "month": "2024-12",
+        "category": "Food",
+        "spending": 23493.86
+      },
+      {
+        "month": "2024-12",
+        "category": "Shopping",
+        "spending": 7609.83
+      },
+      {
+        "month": "2024-12",
+        "category": "Entertainment",
+        "spending": 6208.05
+      },
+      {
+        "month": "2024-12",
+        "category": "Transport",
+        "spending": 5903.49
+      },
+      {
+        "month": "2024-12",
+        "category": "Utilities",
+        "spending": 5800.0
+      },
+      {
+        "month": "2024-12",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2024-12",
+        "category": "Healthcare",
+        "spending": 5489.11
+      },
+      {
+        "month": "2024-12",
+        "category": "Education",
+        "spending": 4901.02
+      },
+      {
+        "month": "2024-12",
+        "category": "Other",
+        "spending": 3762.88
+      },
+      {
+        "month": "2024-12",
+        "category": "Personal Care",
+        "spending": 1460.19
+      },
+      {
+        "month": "2025-01",
+        "category": "Investments",
+        "spending": 35000.0
+      },
+      {
+        "month": "2025-01",
+        "category": "Debt Payment",
+        "spending": 33575.06
+      },
+      {
+        "month": "2025-01",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2025-01",
+        "category": "Food",
+        "spending": 24905.52
+      },
+      {
+        "month": "2025-01",
+        "category": "Shopping",
+        "spending": 11050.23
+      },
+      {
+        "month": "2025-01",
+        "category": "Utilities",
+        "spending": 6050.0
+      },
+      {
+        "month": "2025-01",
+        "category": "Transport",
+        "spending": 6004.66
+      },
+      {
+        "month": "2025-01",
+        "category": "Entertainment",
+        "spending": 5972.04
+      },
+      {
+        "month": "2025-01",
+        "category": "Healthcare",
+        "spending": 5563.14
+      },
+      {
+        "month": "2025-01",
+        "category": "Other",
+        "spending": 5544.03
+      },
+      {
+        "month": "2025-01",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2025-01",
+        "category": "Education",
+        "spending": 2187.78
+      },
+      {
+        "month": "2025-01",
+        "category": "Personal Care",
+        "spending": 1326.73
+      },
+      {
+        "month": "2025-02",
+        "category": "Debt Payment",
+        "spending": 47408.92
+      },
+      {
+        "month": "2025-02",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2025-02",
+        "category": "Investments",
+        "spending": 30000.0
+      },
+      {
+        "month": "2025-02",
+        "category": "Food",
+        "spending": 21288.65
+      },
+      {
+        "month": "2025-02",
+        "category": "Shopping",
+        "spending": 11719.77
+      },
+      {
+        "month": "2025-02",
+        "category": "Entertainment",
+        "spending": 9872.900000000001
+      },
+      {
+        "month": "2025-02",
+        "category": "Utilities",
+        "spending": 6300.0
+      },
+      {
+        "month": "2025-02",
+        "category": "Transport",
+        "spending": 5820.09
+      },
+      {
+        "month": "2025-02",
+        "category": "Education",
+        "spending": 5548.26
+      },
+      {
+        "month": "2025-02",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2025-02",
+        "category": "Healthcare",
+        "spending": 4449.34
+      },
+      {
+        "month": "2025-02",
+        "category": "Other",
+        "spending": 3099.51
+      },
+      {
+        "month": "2025-02",
+        "category": "Personal Care",
+        "spending": 1354.6
+      },
+      {
+        "month": "2025-03",
+        "category": "Debt Payment",
+        "spending": 45025.03
+      },
+      {
+        "month": "2025-03",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2025-03",
+        "category": "Investments",
+        "spending": 30000.0
+      },
+      {
+        "month": "2025-03",
+        "category": "Food",
+        "spending": 16168.95
+      },
+      {
+        "month": "2025-03",
+        "category": "Shopping",
+        "spending": 13480.82
+      },
+      {
+        "month": "2025-03",
+        "category": "Transport",
+        "spending": 7695.6900000000005
+      },
+      {
+        "month": "2025-03",
+        "category": "Entertainment",
+        "spending": 6869.66
+      },
+      {
+        "month": "2025-03",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2025-03",
+        "category": "Education",
+        "spending": 5387.27
+      },
+      {
+        "month": "2025-03",
+        "category": "Utilities",
+        "spending": 5300.0
+      },
+      {
+        "month": "2025-03",
+        "category": "Other",
+        "spending": 3447.7200000000003
+      },
+      {
+        "month": "2025-03",
+        "category": "Personal Care",
+        "spending": 2083.86
+      },
+      {
+        "month": "2025-03",
+        "category": "Healthcare",
+        "spending": 1952.05
+      },
+      {
+        "month": "2025-03",
+        "category": "Uncategorized",
+        "spending": 931.64
+      },
+      {
+        "month": "2025-04",
+        "category": "Debt Payment",
+        "spending": 49083.03
+      },
+      {
+        "month": "2025-04",
+        "category": "Investments",
+        "spending": 35000.0
+      },
+      {
+        "month": "2025-04",
+        "category": "Travel",
+        "spending": 34718.2
+      },
+      {
+        "month": "2025-04",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2025-04",
+        "category": "Food",
+        "spending": 18719.72
+      },
+      {
+        "month": "2025-04",
+        "category": "Shopping",
+        "spending": 15408.04
+      },
+      {
+        "month": "2025-04",
+        "category": "Entertainment",
+        "spending": 6980.04
+      },
+      {
+        "month": "2025-04",
+        "category": "Transport",
+        "spending": 5663.26
+      },
+      {
+        "month": "2025-04",
+        "category": "Utilities",
+        "spending": 5550.0
+      },
+      {
+        "month": "2025-04",
+        "category": "Healthcare",
+        "spending": 5512.21
+      },
+      {
+        "month": "2025-04",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2025-04",
+        "category": "Other",
+        "spending": 4362.27
+      },
+      {
+        "month": "2025-04",
+        "category": "Education",
+        "spending": 2783.62
+      },
+      {
+        "month": "2025-04",
+        "category": "Personal Care",
+        "spending": 1495.84
+      },
+      {
+        "month": "2025-05",
+        "category": "Debt Payment",
+        "spending": 34725.56
+      },
+      {
+        "month": "2025-05",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2025-05",
+        "category": "Investments",
+        "spending": 30000.0
+      },
+      {
+        "month": "2025-05",
+        "category": "Food",
+        "spending": 28424.05
+      },
+      {
+        "month": "2025-05",
+        "category": "Shopping",
+        "spending": 13360.93
+      },
+      {
+        "month": "2025-05",
+        "category": "Transport",
+        "spending": 7014.110000000001
+      },
+      {
+        "month": "2025-05",
+        "category": "Entertainment",
+        "spending": 6274.610000000001
+      },
+      {
+        "month": "2025-05",
+        "category": "Other",
+        "spending": 6007.17
+      },
+      {
+        "month": "2025-05",
+        "category": "Utilities",
+        "spending": 5800.0
+      },
+      {
+        "month": "2025-05",
+        "category": "Education",
+        "spending": 5706.18
+      },
+      {
+        "month": "2025-05",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2025-05",
+        "category": "Personal Care",
+        "spending": 1580.37
+      },
+      {
+        "month": "2025-05",
+        "category": "Healthcare",
+        "spending": 1198.71
+      },
+      {
+        "month": "2025-06",
+        "category": "Debt Payment",
+        "spending": 50038.28
+      },
+      {
+        "month": "2025-06",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2025-06",
+        "category": "Investments",
+        "spending": 30000.0
+      },
+      {
+        "month": "2025-06",
+        "category": "Food",
+        "spending": 14053.58
+      },
+      {
+        "month": "2025-06",
+        "category": "Shopping",
+        "spending": 11095.51
+      },
+      {
+        "month": "2025-06",
+        "category": "Transport",
+        "spending": 10382.09
+      },
+      {
+        "month": "2025-06",
+        "category": "Other",
+        "spending": 6706.1
+      },
+      {
+        "month": "2025-06",
+        "category": "Utilities",
+        "spending": 6050.0
+      },
+      {
+        "month": "2025-06",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2025-06",
+        "category": "Healthcare",
+        "spending": 5085.52
+      },
+      {
+        "month": "2025-06",
+        "category": "Entertainment",
+        "spending": 4416.86
+      },
+      {
+        "month": "2025-06",
+        "category": "Education",
+        "spending": 2690.1
+      },
+      {
+        "month": "2025-06",
+        "category": "Personal Care",
+        "spending": 2656.69
+      },
+      {
+        "month": "2025-07",
+        "category": "Debt Payment",
+        "spending": 45464.67
+      },
+      {
+        "month": "2025-07",
+        "category": "Investments",
+        "spending": 35000.0
+      },
+      {
+        "month": "2025-07",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2025-07",
+        "category": "Food",
+        "spending": 27190.78
+      },
+      {
+        "month": "2025-07",
+        "category": "Travel",
+        "spending": 21554.25
+      },
+      {
+        "month": "2025-07",
+        "category": "Entertainment",
+        "spending": 10788.21
+      },
+      {
+        "month": "2025-07",
+        "category": "Shopping",
+        "spending": 8951.26
+      },
+      {
+        "month": "2025-07",
+        "category": "Utilities",
+        "spending": 6300.0
+      },
+      {
+        "month": "2025-07",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2025-07",
+        "category": "Transport",
+        "spending": 4412.98
+      },
+      {
+        "month": "2025-07",
+        "category": "Education",
+        "spending": 4121.29
+      },
+      {
+        "month": "2025-07",
+        "category": "Personal Care",
+        "spending": 2598.25
+      },
+      {
+        "month": "2025-07",
+        "category": "Other",
+        "spending": 644.11
+      },
+      {
+        "month": "2025-08",
+        "category": "Debt Payment",
+        "spending": 50210.71
+      },
+      {
+        "month": "2025-08",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2025-08",
+        "category": "Investments",
+        "spending": 30000.0
+      },
+      {
+        "month": "2025-08",
+        "category": "Food",
+        "spending": 28381.05
+      },
+      {
+        "month": "2025-08",
+        "category": "Transport",
+        "spending": 10917.27
+      },
+      {
+        "month": "2025-08",
+        "category": "Shopping",
+        "spending": 10043.71
+      },
+      {
+        "month": "2025-08",
+        "category": "Entertainment",
+        "spending": 8133.04
+      },
+      {
+        "month": "2025-08",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2025-08",
+        "category": "Utilities",
+        "spending": 5300.0
+      },
+      {
+        "month": "2025-08",
+        "category": "Other",
+        "spending": 4252.23
+      },
+      {
+        "month": "2025-08",
+        "category": "Education",
+        "spending": 2398.08
+      },
+      {
+        "month": "2025-08",
+        "category": "Healthcare",
+        "spending": 1795.99
+      },
+      {
+        "month": "2025-08",
+        "category": "Personal Care",
+        "spending": 927.0
+      },
+      {
+        "month": "2025-09",
+        "category": "Debt Payment",
+        "spending": 44710.15
+      },
+      {
+        "month": "2025-09",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2025-09",
+        "category": "Investments",
+        "spending": 30000.0
+      },
+      {
+        "month": "2025-09",
+        "category": "Food",
+        "spending": 19067.78
+      },
+      {
+        "month": "2025-09",
+        "category": "Transport",
+        "spending": 14694.89
+      },
+      {
+        "month": "2025-09",
+        "category": "Entertainment",
+        "spending": 6484.139999999999
+      },
+      {
+        "month": "2025-09",
+        "category": "Utilities",
+        "spending": 5550.0
+      },
+      {
+        "month": "2025-09",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2025-09",
+        "category": "Shopping",
+        "spending": 5052.72
+      },
+      {
+        "month": "2025-09",
+        "category": "Education",
+        "spending": 4689.53
+      },
+      {
+        "month": "2025-09",
+        "category": "Healthcare",
+        "spending": 4031.04
+      },
+      {
+        "month": "2025-09",
+        "category": "Other",
+        "spending": 3062.62
+      },
+      {
+        "month": "2025-09",
+        "category": "Personal Care",
+        "spending": 942.86
+      },
+      {
+        "month": "2025-10",
+        "category": "Debt Payment",
+        "spending": 36567.04
+      },
+      {
+        "month": "2025-10",
+        "category": "Investments",
+        "spending": 35000.0
+      },
+      {
+        "month": "2025-10",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2025-10",
+        "category": "Food",
+        "spending": 25186.2
+      },
+      {
+        "month": "2025-10",
+        "category": "Shopping",
+        "spending": 12261.98
+      },
+      {
+        "month": "2025-10",
+        "category": "Transport",
+        "spending": 10320.98
+      },
+      {
+        "month": "2025-10",
+        "category": "Utilities",
+        "spending": 5800.0
+      },
+      {
+        "month": "2025-10",
+        "category": "Entertainment",
+        "spending": 5747.120000000001
+      },
+      {
+        "month": "2025-10",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2025-10",
+        "category": "Education",
+        "spending": 4540.32
+      },
+      {
+        "month": "2025-10",
+        "category": "Healthcare",
+        "spending": 3149.44
+      },
+      {
+        "month": "2025-10",
+        "category": "Other",
+        "spending": 2359.95
+      },
+      {
+        "month": "2025-10",
+        "category": "Personal Care",
+        "spending": 1973.99
+      },
+      {
+        "month": "2025-11",
+        "category": "Debt Payment",
+        "spending": 45001.31
+      },
+      {
+        "month": "2025-11",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2025-11",
+        "category": "Investments",
+        "spending": 30000.0
+      },
+      {
+        "month": "2025-11",
+        "category": "Food",
+        "spending": 24596.28
+      },
+      {
+        "month": "2025-11",
+        "category": "Shopping",
+        "spending": 12546.86
+      },
+      {
+        "month": "2025-11",
+        "category": "Transport",
+        "spending": 7805.82
+      },
+      {
+        "month": "2025-11",
+        "category": "Entertainment",
+        "spending": 7483.86
+      },
+      {
+        "month": "2025-11",
+        "category": "Utilities",
+        "spending": 6050.0
+      },
+      {
+        "month": "2025-11",
+        "category": "Healthcare",
+        "spending": 5654.51
+      },
+      {
+        "month": "2025-11",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2025-11",
+        "category": "Education",
+        "spending": 3964.89
+      },
+      {
+        "month": "2025-11",
+        "category": "Personal Care",
+        "spending": 2416.4
+      },
+      {
+        "month": "2025-11",
+        "category": "Other",
+        "spending": 2114.06
+      },
+      {
+        "month": "2025-12",
+        "category": "Debt Payment",
+        "spending": 48863.7
+      },
+      {
+        "month": "2025-12",
+        "category": "Food",
+        "spending": 32762.57
+      },
+      {
+        "month": "2025-12",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2025-12",
+        "category": "Investments",
+        "spending": 30000.0
+      },
+      {
+        "month": "2025-12",
+        "category": "Travel",
+        "spending": 23550.28
+      },
+      {
+        "month": "2025-12",
+        "category": "Shopping",
+        "spending": 15363.099999999999
+      },
+      {
+        "month": "2025-12",
+        "category": "Transport",
+        "spending": 8005.6900000000005
+      },
+      {
+        "month": "2025-12",
+        "category": "Other",
+        "spending": 7492.929999999999
+      },
+      {
+        "month": "2025-12",
+        "category": "Entertainment",
+        "spending": 6353.14
+      },
+      {
+        "month": "2025-12",
+        "category": "Utilities",
+        "spending": 6300.0
+      },
+      {
+        "month": "2025-12",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2025-12",
+        "category": "Healthcare",
+        "spending": 4887.47
+      },
+      {
+        "month": "2025-12",
+        "category": "Education",
+        "spending": 2271.27
+      },
+      {
+        "month": "2025-12",
+        "category": "Personal Care",
+        "spending": 1359.54
+      },
+      {
+        "month": "2026-01",
+        "category": "Debt Payment",
+        "spending": 49045.09
+      },
+      {
+        "month": "2026-01",
+        "category": "Investments",
+        "spending": 35000.0
+      },
+      {
+        "month": "2026-01",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2026-01",
+        "category": "Food",
+        "spending": 25112.19
+      },
+      {
+        "month": "2026-01",
+        "category": "Shopping",
+        "spending": 14281.220000000001
+      },
+      {
+        "month": "2026-01",
+        "category": "Entertainment",
+        "spending": 9047.11
+      },
+      {
+        "month": "2026-01",
+        "category": "Transport",
+        "spending": 6829.799999999999
+      },
+      {
+        "month": "2026-01",
+        "category": "Other",
+        "spending": 5819.1900000000005
+      },
+      {
+        "month": "2026-01",
+        "category": "Education",
+        "spending": 5626.26
+      },
+      {
+        "month": "2026-01",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2026-01",
+        "category": "Utilities",
+        "spending": 5300.0
+      },
+      {
+        "month": "2026-01",
+        "category": "Healthcare",
+        "spending": 2317.3
+      },
+      {
+        "month": "2026-01",
+        "category": "Personal Care",
+        "spending": 1900.43
+      },
+      {
+        "month": "2026-02",
+        "category": "Debt Payment",
+        "spending": 45896.16
+      },
+      {
+        "month": "2026-02",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2026-02",
+        "category": "Investments",
+        "spending": 30000.0
+      },
+      {
+        "month": "2026-02",
+        "category": "Food",
+        "spending": 25102.26
+      },
+      {
+        "month": "2026-02",
+        "category": "Transport",
+        "spending": 9156.68
+      },
+      {
+        "month": "2026-02",
+        "category": "Shopping",
+        "spending": 8156.17
+      },
+      {
+        "month": "2026-02",
+        "category": "Entertainment",
+        "spending": 7159.76
+      },
+      {
+        "month": "2026-02",
+        "category": "Education",
+        "spending": 6581.51
+      },
+      {
+        "month": "2026-02",
+        "category": "Utilities",
+        "spending": 5550.0
+      },
+      {
+        "month": "2026-02",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2026-02",
+        "category": "Personal Care",
+        "spending": 2668.27
+      },
+      {
+        "month": "2026-02",
+        "category": "Healthcare",
+        "spending": 2418.07
+      },
+      {
+        "month": "2026-02",
+        "category": "Other",
+        "spending": 753.58
+      },
+      {
+        "month": "2026-03",
+        "category": "Utilities",
+        "spending": 189900.0
+      },
+      {
+        "month": "2026-03",
+        "category": "Debt Payment",
+        "spending": 45426.33
+      },
+      {
+        "month": "2026-03",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2026-03",
+        "category": "Investments",
+        "spending": 30000.0
+      },
+      {
+        "month": "2026-03",
+        "category": "Food",
+        "spending": 25098.35
+      },
+      {
+        "month": "2026-03",
+        "category": "Shopping",
+        "spending": 13318.66
+      },
+      {
+        "month": "2026-03",
+        "category": "Transport",
+        "spending": 10921.95
+      },
+      {
+        "month": "2026-03",
+        "category": "Other",
+        "spending": 8642.21
+      },
+      {
+        "month": "2026-03",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2026-03",
+        "category": "Healthcare",
+        "spending": 5232.36
+      },
+      {
+        "month": "2026-03",
+        "category": "Education",
+        "spending": 4937.18
+      },
+      {
+        "month": "2026-03",
+        "category": "Entertainment",
+        "spending": 3767.59
+      },
+      {
+        "month": "2026-03",
+        "category": "Personal Care",
+        "spending": 1421.73
+      },
+      {
+        "month": "2026-04",
+        "category": "Debt Payment",
+        "spending": 49202.86
+      },
+      {
+        "month": "2026-04",
+        "category": "Investments",
+        "spending": 35000.0
+      },
+      {
+        "month": "2026-04",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2026-04",
+        "category": "Travel",
+        "spending": 28819.25
+      },
+      {
+        "month": "2026-04",
+        "category": "Food",
+        "spending": 28708.06
+      },
+      {
+        "month": "2026-04",
+        "category": "Shopping",
+        "spending": 19736.01
+      },
+      {
+        "month": "2026-04",
+        "category": "Transport",
+        "spending": 7914.66
+      },
+      {
+        "month": "2026-04",
+        "category": "Other",
+        "spending": 7417.62
+      },
+      {
+        "month": "2026-04",
+        "category": "Entertainment",
+        "spending": 6931.54
+      },
+      {
+        "month": "2026-04",
+        "category": "Utilities",
+        "spending": 6050.0
+      },
+      {
+        "month": "2026-04",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2026-04",
+        "category": "Healthcare",
+        "spending": 3845.23
+      },
+      {
+        "month": "2026-04",
+        "category": "Education",
+        "spending": 3333.76
+      },
+      {
+        "month": "2026-04",
+        "category": "Personal Care",
+        "spending": 2352.48
+      },
+      {
+        "month": "2026-05",
+        "category": "Salary",
+        "spending": 205000.0
+      },
+      {
+        "month": "2026-05",
+        "category": "Debt Payment",
+        "spending": 50679.79
+      },
+      {
+        "month": "2026-05",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2026-05",
+        "category": "Investments",
+        "spending": 30000.0
+      },
+      {
+        "month": "2026-05",
+        "category": "Food",
+        "spending": 27310.61
+      },
+      {
+        "month": "2026-05",
+        "category": "Shopping",
+        "spending": 11859.31
+      },
+      {
+        "month": "2026-05",
+        "category": "Transport",
+        "spending": 8533.59
+      },
+      {
+        "month": "2026-05",
+        "category": "Other",
+        "spending": 8076.0
+      },
+      {
+        "month": "2026-05",
+        "category": "Utilities",
+        "spending": 6300.0
+      },
+      {
+        "month": "2026-05",
+        "category": "Entertainment",
+        "spending": 5961.9
+      },
+      {
+        "month": "2026-05",
+        "category": "Healthcare",
+        "spending": 5551.38
+      },
+      {
+        "month": "2026-05",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2026-05",
+        "category": "Education",
+        "spending": 3793.4
+      },
+      {
+        "month": "2026-05",
+        "category": "Personal Care",
+        "spending": 2607.42
+      },
+      {
+        "month": "2026-06",
+        "category": "Debt Payment",
+        "spending": 47516.38
+      },
+      {
+        "month": "2026-06",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2026-06",
+        "category": "Investments",
+        "spending": 30000.0
+      },
+      {
+        "month": "2026-06",
+        "category": "Food",
+        "spending": 26512.26
+      },
+      {
+        "month": "2026-06",
+        "category": "Shopping",
+        "spending": 17717.34
+      },
+      {
+        "month": "2026-06",
+        "category": "Transport",
+        "spending": 9756.32
+      },
+      {
+        "month": "2026-06",
+        "category": "Healthcare",
+        "spending": 7322.17
+      },
+      {
+        "month": "2026-06",
+        "category": "Entertainment",
+        "spending": 6797.1
+      },
+      {
+        "month": "2026-06",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2026-06",
+        "category": "Utilities",
+        "spending": 5300.0
+      },
+      {
+        "month": "2026-06",
+        "category": "Education",
+        "spending": 5226.61
+      },
+      {
+        "month": "2026-06",
+        "category": "Other",
+        "spending": 3346.37
+      },
+      {
+        "month": "2026-06",
+        "category": "Personal Care",
+        "spending": 3230.42
+      },
+      {
+        "month": "2026-07",
+        "category": "Debt Payment",
+        "spending": 48453.09
+      },
+      {
+        "month": "2026-07",
+        "category": "Travel",
+        "spending": 36305.69
+      },
+      {
+        "month": "2026-07",
+        "category": "Investments",
+        "spending": 35000.0
+      },
+      {
+        "month": "2026-07",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2026-07",
+        "category": "Food",
+        "spending": 27811.43
+      },
+      {
+        "month": "2026-07",
+        "category": "Shopping",
+        "spending": 17493.34
+      },
+      {
+        "month": "2026-07",
+        "category": "Healthcare",
+        "spending": 7824.46
+      },
+      {
+        "month": "2026-07",
+        "category": "Entertainment",
+        "spending": 7556.88
+      },
+      {
+        "month": "2026-07",
+        "category": "Other",
+        "spending": 6731.86
+      },
+      {
+        "month": "2026-07",
+        "category": "Utilities",
+        "spending": 5550.0
+      },
+      {
+        "month": "2026-07",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2026-07",
+        "category": "Transport",
+        "spending": 3929.74
+      },
+      {
+        "month": "2026-07",
+        "category": "Education",
+        "spending": 2559.71
+      },
+      {
+        "month": "2026-07",
+        "category": "Personal Care",
+        "spending": 2490.77
+      },
+      {
+        "month": "2026-08",
+        "category": "Debt Payment",
+        "spending": 48115.24
+      },
+      {
+        "month": "2026-08",
+        "category": "Food",
+        "spending": 32697.480000000003
+      },
+      {
+        "month": "2026-08",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2026-08",
+        "category": "Investments",
+        "spending": 30000.0
+      },
+      {
+        "month": "2026-08",
+        "category": "Shopping",
+        "spending": 26899.559999999998
+      },
+      {
+        "month": "2026-08",
+        "category": "Transport",
+        "spending": 8805.99
+      },
+      {
+        "month": "2026-08",
+        "category": "Healthcare",
+        "spending": 7481.78
+      },
+      {
+        "month": "2026-08",
+        "category": "Education",
+        "spending": 6574.92
+      },
+      {
+        "month": "2026-08",
+        "category": "Other",
+        "spending": 6464.759999999999
+      },
+      {
+        "month": "2026-08",
+        "category": "Utilities",
+        "spending": 5800.0
+      },
+      {
+        "month": "2026-08",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2026-08",
+        "category": "Entertainment",
+        "spending": 1899.43
+      },
+      {
+        "month": "2026-08",
+        "category": "Personal Care",
+        "spending": 1147.45
+      },
+      {
+        "month": "2026-09",
+        "category": "Debt Payment",
+        "spending": 46699.85
+      },
+      {
+        "month": "2026-09",
+        "category": "Food",
+        "spending": 43227.83
+      },
+      {
+        "month": "2026-09",
+        "category": "Housing",
+        "spending": 32000.0
+      },
+      {
+        "month": "2026-09",
+        "category": "Investments",
+        "spending": 30000.0
+      },
+      {
+        "month": "2026-09",
+        "category": "Shopping",
+        "spending": 18823.48
+      },
+      {
+        "month": "2026-09",
+        "category": "Other",
+        "spending": 13047.32
+      },
+      {
+        "month": "2026-09",
+        "category": "Entertainment",
+        "spending": 9590.53
+      },
+      {
+        "month": "2026-09",
+        "category": "Transport",
+        "spending": 8776.1
+      },
+      {
+        "month": "2026-09",
+        "category": "Utilities",
+        "spending": 6050.0
+      },
+      {
+        "month": "2026-09",
+        "category": "Insurance",
+        "spending": 5500.0
+      },
+      {
+        "month": "2026-09",
+        "category": "Education",
+        "spending": 4246.17
+      },
+      {
+        "month": "2026-09",
+        "category": "Healthcare",
+        "spending": 2641.81
+      },
+      {
+        "month": "2026-09",
+        "category": "Personal Care",
+        "spending": 2237.27
+      },
+      {
+        "month": "2026-11",
+        "category": "Healthcare",
+        "spending": 1376.22
+      }
+    ],
+    "monthly_change": {
+      "Debt Payment": {
+        "current_month": 0.0,
+        "previous_month": 46699.85,
+        "change_percent": -100.0
+      },
+      "Education": {
+        "current_month": 0.0,
+        "previous_month": 4246.17,
+        "change_percent": -100.0
+      },
+      "Entertainment": {
+        "current_month": 0.0,
+        "previous_month": 9590.53,
+        "change_percent": -100.0
+      },
+      "Food": {
+        "current_month": 0.0,
+        "previous_month": 43227.83,
+        "change_percent": -100.0
+      },
+      "Healthcare": {
+        "current_month": 1376.22,
+        "previous_month": 2641.81,
+        "change_percent": -47.90617039075482
+      },
+      "Housing": {
+        "current_month": 0.0,
+        "previous_month": 32000.0,
+        "change_percent": -100.0
+      },
+      "Insurance": {
+        "current_month": 0.0,
+        "previous_month": 5500.0,
+        "change_percent": -100.0
+      },
+      "Investments": {
+        "current_month": 0.0,
+        "previous_month": 30000.0,
+        "change_percent": -100.0
+      },
+      "Other": {
+        "current_month": 0.0,
+        "previous_month": 13047.32,
+        "change_percent": -100.0
+      },
+      "Personal Care": {
+        "current_month": 0.0,
+        "previous_month": 2237.27,
+        "change_percent": -100.0
+      },
+      "Salary": {
+        "current_month": 0.0,
+        "previous_month": 0.0,
+        "change_percent": 0.0
+      },
+      "Shopping": {
+        "current_month": 0.0,
+        "previous_month": 18823.48,
+        "change_percent": -100.0
+      },
+      "Transport": {
+        "current_month": 0.0,
+        "previous_month": 8776.1,
+        "change_percent": -100.0
+      },
+      "Travel": {
+        "current_month": 0.0,
+        "previous_month": 0.0,
+        "change_percent": 0.0
+      },
+      "Uncategorized": {
+        "current_month": 0.0,
+        "previous_month": 0.0,
+        "change_percent": 0.0
+      },
+      "Utilities": {
+        "current_month": 0.0,
+        "previous_month": 6050.0,
+        "change_percent": -100.0
+      }
+    }
+  },
+  "trends": {
+    "income_trend": {
+      "status": "increase",
+      "current_month": 355000.0,
+      "previous_month": 261000.0,
+      "change_percent": 36.015325670498086
+    },
+    "expense_trend": {
+      "status": "decrease",
+      "current_month": 1376.22,
+      "previous_month": 222840.36000000002,
+      "change_percent": -99.38241887600613
+    },
+    "savings_trend": {
+      "status": "decrease",
+      "current_month": -1376.22,
+      "previous_month": 132159.64,
+      "change_percent": -101.04133152905077
+    },
+    "category_spikes": {},
+    "debt_trend": {
+      "status": "insufficient_historical_data"
+    }
+  },
+  "anomalies": [],
+  "health_score_breakdown": {
+    "savings_score": 60.0,
+    "debt_score": 100.0,
+    "cash_flow_score": 100.0,
+    "spending_stability_score": 75.98,
+    "overall_health_score": 83.2,
+    "weights": {
+      "savings_score": 0.3,
+      "debt_score": 0.25,
+      "cash_flow_score": 0.25,
+      "spending_stability_score": 0.2
+    }
+  },
+  "recommendations": [
+    "Increase savings or review expenses to improve your savings rate.",
+    "Prioritize paying down high-interest debt to reduce financial strain.",
+    "Review spending in Debt Payment as it represents a significant share of your expenses.",
+    "Financial warning: negative cash flow has occurred repeatedly."
+  ]
+}

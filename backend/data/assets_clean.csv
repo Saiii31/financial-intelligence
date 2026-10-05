@@ -1,0 +1,9 @@
+asset_id,type,value,as_of_date,is_invalid_date,date_issue,is_invalid_amount,amount_issue,is_invalid_type,type_issue,is_statistical_outlier,outlier_reason,is_anomaly,anomaly_reason,needs_review
+A001,Savings Account,325000,2026-10-01,False,none,False,none,False,none,False,none,False,none,False
+A002,Current Account,85000,2026-10-01,False,none,False,none,False,none,False,none,False,none,False
+A003,Fixed Deposit,450000,2026-10-01,False,none,False,none,False,none,False,none,False,none,False
+A004,Mutual Funds,625000,2026-10-01,False,none,False,none,False,none,False,none,False,none,False
+A005,Equity Portfolio,410000,2026-10-01,False,none,False,none,False,none,False,none,False,none,False
+A006,Gold,280000,2026-10-01,False,none,False,none,False,none,False,none,False,none,False
+A007,Vehicle,650000,2026-10-01,False,none,False,none,False,none,False,none,False,none,False
+A008,Property,4200000,2026-10-01,False,none,False,none,False,none,False,none,False,none,False

@@ -1,0 +1,56 @@
+# Environment variables (sensitive)
+.env
+*.env
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.venv/
+venv/
+ENV/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# IDE
+.vscode/
+.idea/
+*.sw?
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI model files (large)
+*.faiss
+*.index
+*.pkl
+*.h5
+
+# Logs
+*.log
+logs/
+
+# Temporary/working directories
+person1_temp/
+*_temp/
+temp/
+
+# Zip archives (source code should be committed)
+*.zip
